@@ -1,6 +1,6 @@
 ### Welcome! 👋
 #### Who are you? 👀
-- 🦝 Well, people say I look like a raccoon. That's how I named myself as **haccoon**!
+- 🦝 Well, people say I look like a raccoon. That's how I named myself **haccoon**!
 - 🇨🇦 I lived in Canada for 6 years since 2016! Currently, live in Seoul, Korea.
 - 🧗‍♂️ A highly curious and self-directed individual with strong leadership qualities, I place great emphasis on personal growth and development.
 - 🌱 I’m currently in between jobs, open to remote and relocate. Please see the below and feel free to contact me!
