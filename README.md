@@ -1,5 +1,5 @@
 ### Welcome! 👋
-#### Who are you? 👀
+#### Who are you? Minha? Haccoon? 👀
 - 🦝 Well, people say I look like a raccoon. That's how I named myself **haccoon**!
 - 🇨🇦 I lived in Canada for 6 years since 2016! Currently, live in Seoul, Korea.
 - 🧗‍♂️ A highly curious and self-directed individual with strong leadership qualities, I place great emphasis on personal growth and development.
