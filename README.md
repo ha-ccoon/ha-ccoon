@@ -5,7 +5,7 @@
 - 🧗‍♂️ A highly curious and self-directed individual with strong leadership qualities, I place great emphasis on personal growth and development.
   
 ### About me 👩‍💻
-<a href="https://drive.google.com/file/d/11gFVxUQfRBF6dHoT6acGeLJ4aJsplYe4/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/resume-FFC75F?style=for-the-badge&logo=googledocs&logoColor=4B4453"/></a>
+<a href="https://drive.google.com/file/d/11gFVxUQfRBF6dHoT6acGeLJ4aJsplYe4/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/resume-FFC75F?style=for-the-badge&logo=googledocs&logoColor=4B4453"/></a>
 <a href="https://minhasohn.notion.site/ebd4272ffeb942c1919e41b326d69ad6?pvs=4" target="_blank"><img src="https://img.shields.io/badge/portfolio-FFC75F?style=for-the-badge&logo=notion&logoColor=4B4453"/></a>   
 <a href="https://inblog.ai/haccoon" target="_blank"><img src="https://img.shields.io/badge/blog-845EC2?style=for-the-badge&logo=bloglovin&logoColorD65DB1"/></a>
 <a href="https://www.linkedin.com/in/minhasohn/" target="_blank"><img src="https://img.shields.io/badge/linkedin-2C73D2?style=for-the-badge&logo=linkedin&logoColor=FFF82C"/></a>
